@@ -1,0 +1,17 @@
+django
+djangorestframework
+markdown
+django-filter
+django-widget-tweaks
+djangorestframework_simplejwt
+tweepy
+gcloud
+googleapis-common-protos
+oauth2client
+requests
+requests-toolbelt
+rsa
+six
+psycopg2-binary
+homebrew
+command
