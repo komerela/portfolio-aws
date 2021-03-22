@@ -26,7 +26,8 @@ SECRET_KEY = 'd_)xd1=ia@1k&b1k07-^-g3iwv&a%95tpl%qi^^k4@+^42+smd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['koome-portfolio.us-east-1.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['koome-portfolio.us-east-1.elasticbeanstalk.com'. 'www.koome.vip']
+
 
 
 # Application definition
